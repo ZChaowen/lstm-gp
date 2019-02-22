@@ -16,4 +16,5 @@ GPU：GTX 950及以上
 第三方包：Anaconda3，TensorFlow1.3.0 ,Keras
 3	编程语言
 Python
-
+三、运行文件：
+直接运行GUI.py文件即可
